@@ -1,5 +1,11 @@
 # as-bump-maker
 
+## Demo
+![Demo](https://raw.githubusercontent.com/Matthunker/as-bump-maker/main/assets/demo.gif)
+
+Full video (with sound): https://github.com/Matthunker/as-bump-maker/blob/main/assets/demo.mp4
+
+
 A lightweight web app for creating **Adult Swim–style bumps** and exporting them as **MP4** in the browser.
 
 Use it to generate custom filler/commercial clips you can add to **Jellyfin** libraries or schedule via **Tunarr**.
